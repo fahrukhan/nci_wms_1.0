@@ -1,0 +1,1 @@
+ALTER TABLE "transfers" ALTER COLUMN "note" SET DEFAULT '';

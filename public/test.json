@@ -1,0 +1,30 @@
+{
+    "transfer_id": "TRF2024070900004",
+    "note": "testing",
+    "device": {
+        "id": "RP1A.200720.011",
+        "manufacturer": "CHAINWAY",
+        "model": "handheld",
+        "device": "handheld",
+        "brand": "CHAINWAY",
+        "product": "handheld",
+        "android_version": "11",
+        "api_level": 30
+    },
+    "app_version": "1.0",
+    "details": [
+        {
+            "item_id": [
+                "REG1719549336839T2V1R"
+            ],
+            "product_id": 18
+        },
+        {
+            "item_id": [
+                "REG17189549478212HT0V",
+                "REG17189549478212HT0X"
+            ],
+            "product_id": 7
+        }
+    ]
+}
