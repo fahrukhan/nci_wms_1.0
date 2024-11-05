@@ -11,8 +11,8 @@ import TableCell from "@/components/TableComponent/TableCell";
 
 import { useAtomValue } from "jotai";
 import { inboundDataAtom } from "@/lib/atom";
-import InboundTableHeader from "./InboundTableHeader";
 import DefaultTablePagination from "@/components/TableComponent/DefaultTablePagination";
+import InboundTableHeader from "@/components/Dashboard/Transaction/inbound/InboundTableHeader";
 
 export const InboundTable = ({
   supplierData,

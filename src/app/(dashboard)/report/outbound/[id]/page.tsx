@@ -1,4 +1,4 @@
-import { OutboundTableDetail } from "@/components/Dashboard/Transaction/Outbound/detail/OutboundTableDetail";
+import { OutboundTableDetail } from "@/components/Dashboard/Transaction/outbound/detail/OutboundTableDetail";
 import type { Metadata } from "next";
 
 const APP_NAME = "NCI WMS";

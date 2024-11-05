@@ -1,4 +1,4 @@
-import { InboundTableDetail } from "@/components/Dashboard/Transaction/Inbound/detail/InboundTableDetail";
+import { InboundTableDetail } from "@/components/Dashboard/Transaction/inbound/detail/InboundTableDetail";
 import ReturnPageIcon from "@/components/Shared/ReturnPageIcon";
 import { ChevronLeftIcon } from "lucide-react";
 import type { Metadata } from "next";

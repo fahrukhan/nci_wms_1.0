@@ -1,5 +1,5 @@
 import { fetchOutboundCustomerData, fetchTransferOriginWarehouseData } from "@/app/actions/transactionActions";
-import { OutboundTable } from "@/components/Dashboard/Transaction/Outbound/OutboundTable";
+import { OutboundTable } from "@/components/Dashboard/Transaction/outbound/OutboundTable";
 import { getUserWarehouses } from "@/lib/utils/GetUserWarehouse";
 import type { Metadata } from "next";
 
